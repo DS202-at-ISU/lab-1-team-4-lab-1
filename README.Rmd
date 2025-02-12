@@ -31,3 +31,6 @@ This is a line from RStudio!\
 
 12.4\
 - Brandon: Hey look this step is what I'm doing now :)
+
+12.5\
+- Brandon: First commit didn't work lets try again
