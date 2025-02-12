@@ -17,6 +17,7 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
+<<<<<<< HEAD
 ------------------------------------------------------------------------
 
 This is a line from RStudio!  
@@ -34,3 +35,48 @@ This is a line from RStudio!
 
 12.5  
 - Brandon: First commit didn’t work lets try again
+=======
+------------------- Lab 1 Report -------------------
+
+Chapter 12.1
+
+-   Analyn:
+-   Brandon:
+-   Jenna:
+-   Hong Hao:
+
+Chapter 12.2
+
+-   Analyn:
+-   Brandon:
+-   Jenna:
+-   Hong Hao:
+
+Chapter 12.3
+
+-   Analyn:
+-   Brandon:
+-   Jenna:
+-   Hong Hao:
+
+Chapter 12.4
+
+-   Analyn:
+-   Brandon:
+-   Jenna:
+-   Hong Hao:
+
+Chapter 12.5
+
+-   Analyn:
+-   Brandon:
+-   Jenna:
+-   Hong Hao:
+
+Chapter 12.6
+
+-   Analyn:
+-   Brandon:
+-   Jenna:
+-   Hong Hao:
+>>>>>>> 4b31595703df147e3600899306e88a9f540a2c38
