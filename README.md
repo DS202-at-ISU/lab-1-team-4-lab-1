@@ -17,3 +17,15 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+12.1\
+- Brandon: Double checked I had introduced myself. I had.
+
+12.2\
+- Brandon: Used the repo we already had. Hurray!
+
+12.3\
+- Brandon: Cloned it!
+
+12.4\
+- Brandon: Hey look this step is what I'm doing now :)
