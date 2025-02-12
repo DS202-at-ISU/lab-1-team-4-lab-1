@@ -24,46 +24,44 @@ This is a line from RStudio!
 
 This is a line from RStudio
 
-------------------- Lab 1 Report -------------------
-
 Chapter 12.1
 
--   Analyn:
+-   Analyn: Prerequisites were complete before class
 -   Brandon:
 -   Jenna:
 -   Hong Hao:
 
 Chapter 12.2
 
--   Analyn:
+-   Analyn: The repo was already created as part of the assignment.
 -   Brandon:
 -   Jenna:
 -   Hong Hao:
 
 Chapter 12.3
 
--   Analyn:
+-   Analyn: I cloned the GitHub to my class folder, it worked perfectly.
 -   Brandon:
 -   Jenna:
 -   Hong Hao:
 
 Chapter 12.4
 
--   Analyn:
+-   Analyn: I added the line "This is a line from RStudio" in RStudio. I then staged and commited the README.Rmd file.
 -   Brandon:
 -   Jenna:
 -   Hong Hao:
 
 Chapter 12.5
 
--   Analyn:
+-   Analyn: I pushed it using the push button.
 -   Brandon:
 -   Jenna:
 -   Hong Hao:
 
 Chapter 12.6
 
--   Analyn:
+-   Analyn: I double checked everything worked on the GitHub repo. Once I confirmed it worked, I repeated steps 4 - 6 to add these comments.
 -   Brandon:
 -   Jenna:
 -   Hong Hao:

@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/yvH536po)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -18,46 +17,54 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-------------------- Lab 1 Report -------------------
+------------------------------------------------------------------------
+
+This is a line from RStudio!
+
+# Hong Hao Khoo
+
+This is a line from RStudio
 
 Chapter 12.1
 
--   Analyn:
--   Brandon:
--   Jenna:
--   Hong Hao:
+- Analyn: Prerequisites were complete before class
+- Brandon:
+- Jenna:
+- Hong Hao:
 
 Chapter 12.2
 
--   Analyn:
--   Brandon:
--   Jenna:
--   Hong Hao:
+- Analyn: The repo was already created as part of the assignment.
+- Brandon:
+- Jenna:
+- Hong Hao:
 
 Chapter 12.3
 
--   Analyn:
--   Brandon:
--   Jenna:
--   Hong Hao:
+- Analyn: I cloned the GitHub to my class folder, it worked perfectly.
+- Brandon:
+- Jenna:
+- Hong Hao:
 
 Chapter 12.4
 
--   Analyn:
--   Brandon:
--   Jenna:
--   Hong Hao:
+- Analyn: I added the line “This is a line from RStudio” in RStudio. I
+  then staged and commited the README.Rmd file.
+- Brandon:
+- Jenna:
+- Hong Hao:
 
 Chapter 12.5
 
--   Analyn:
--   Brandon:
--   Jenna:
--   Hong Hao:
+- Analyn: I pushed it using the push button.
+- Brandon:
+- Jenna:
+- Hong Hao:
 
 Chapter 12.6
 
--   Analyn:
--   Brandon:
--   Jenna:
--   Hong Hao:
+- Analyn: I double checked everything worked on the GitHub repo. Once I
+  confirmed it worked, I repeated steps 4 - 6 to add these comments.
+- Brandon:
+- Jenna:
+- Hong Hao:
