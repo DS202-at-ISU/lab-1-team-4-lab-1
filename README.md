@@ -25,6 +25,8 @@ This is a line from RStudio!
 
 This is a line from RStudio
 
+——————————————– Lab 1 Report ———————————————
+
 Chapter 12.1
 
 - Analyn: Prerequisites were complete before class. Introduced myself to
