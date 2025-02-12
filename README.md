@@ -17,66 +17,55 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-<<<<<<< HEAD
 ------------------------------------------------------------------------
 
 This is a line from RStudio!  
-12.1  
-- Brandon: Double checked I had introduced myself. I had.
 
-12.2  
-- Brandon: Used the repo we already had. Hurray!
+# Hong Hao Khoo
 
-12.3  
-- Brandon: Cloned it!
+This is a line from RStudio
 
-12.4  
-- Brandon: Hey look this step is what I’m doing now :)
-
-12.5  
-- Brandon: First commit didn’t work lets try again
-=======
-------------------- Lab 1 Report -------------------
+——————- Lab 1 Report ——————-
 
 Chapter 12.1
 
--   Analyn:
--   Brandon:
--   Jenna:
--   Hong Hao:
+- Analyn:
+- Brandon: Double checked I had introduced myself. I had.
+- Jenna:
+- Hong Hao:
 
 Chapter 12.2
 
--   Analyn:
--   Brandon:
--   Jenna:
--   Hong Hao:
+- Analyn:
+- Brandon: Used the repo we already had. Hurray!
+- Jenna:
+- Hong Hao:
 
 Chapter 12.3
 
--   Analyn:
--   Brandon:
--   Jenna:
--   Hong Hao:
+- Analyn:
+- Brandon: Cloned it!
+- Jenna:
+- Hong Hao:
 
 Chapter 12.4
 
--   Analyn:
--   Brandon:
--   Jenna:
--   Hong Hao:
+- Analyn:
+- Brandon: Hey look this step is what I’m doing now :)
+- Jenna:
+- Hong Hao:
 
 Chapter 12.5
 
--   Analyn:
--   Brandon:
--   Jenna:
--   Hong Hao:
+- Analyn:
+- Brandon: First commit didn’t work lets try again
+- Jenna:
+- Hong Hao:
 
 Chapter 12.6
 
--   Analyn:
--   Brandon:
--   Jenna:
--   Hong Hao:
->>>>>>> 4b31595703df147e3600899306e88a9f540a2c38
+- Analyn:
+- Brandon: Big formatting errors they did not combine correctly so
+  fixing it now
+- Jenna:
+- Hong Hao:
