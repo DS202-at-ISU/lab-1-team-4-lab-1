@@ -17,26 +17,7 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
 ------------------------------------------------------------------------
-
-<<<<<<< HEAD
--------------------
 This is a line from RStudio!\
-12.1\
-- Brandon: Double checked I had introduced myself. I had.
-
-12.2\
-- Brandon: Used the repo we already had. Hurray!
-
-12.3\
-- Brandon: Cloned it!
-
-12.4\
-- Brandon: Hey look this step is what I'm doing now :)
-
-12.5\
-- Brandon: First commit didn't work lets try again
-=======
-This is a line from RStudio!
 
 # Hong Hao Khoo
 
@@ -47,42 +28,41 @@ This is a line from RStudio
 Chapter 12.1
 
 -   Analyn:
--   Brandon:
+-   Brandon: Double checked I had introduced myself. I had.
 -   Jenna:
 -   Hong Hao:
 
 Chapter 12.2
 
 -   Analyn:
--   Brandon:
+-   Brandon: Used the repo we already had. Hurray!
 -   Jenna:
 -   Hong Hao:
 
 Chapter 12.3
 
 -   Analyn:
--   Brandon:
+-   Brandon: Cloned it!
 -   Jenna:
 -   Hong Hao:
 
 Chapter 12.4
 
 -   Analyn:
--   Brandon:
+-   Brandon: Hey look this step is what I'm doing now :)
 -   Jenna:
 -   Hong Hao:
 
 Chapter 12.5
 
 -   Analyn:
--   Brandon:
+-   Brandon: First commit didn't work lets try again
 -   Jenna:
 -   Hong Hao:
 
 Chapter 12.6
 
 -   Analyn:
--   Brandon:
+-   Brandon: Big formatting errors they did not combine correctly so fixing it now
 -   Jenna:
 -   Hong Hao:
->>>>>>> 4b31595703df147e3600899306e88a9f540a2c38
