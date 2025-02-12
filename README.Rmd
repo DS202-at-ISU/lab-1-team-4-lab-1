@@ -22,16 +22,3 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 This is a line from RStudio!
 
 This is a line from RStudio (Hong Hao Khoo)
--------------------
-
-# step 12.1
-
-# step 12.2
-
-# step 12.3
-
-# step 12.4
-
-# step 12.5
-
-# step 12.6
