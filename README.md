@@ -17,3 +17,47 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+------------------- Lab 1 Report -------------------
+
+Chapter 12.1
+
+-   Analyn:
+-   Brandon:
+-   Jenna:
+-   Hong Hao:
+
+Chapter 12.2
+
+-   Analyn:
+-   Brandon:
+-   Jenna:
+-   Hong Hao:
+
+Chapter 12.3
+
+-   Analyn:
+-   Brandon:
+-   Jenna:
+-   Hong Hao:
+
+Chapter 12.4
+
+-   Analyn:
+-   Brandon:
+-   Jenna:
+-   Hong Hao:
+
+Chapter 12.5
+
+-   Analyn:
+-   Brandon:
+-   Jenna:
+-   Hong Hao:
+
+Chapter 12.6
+
+-   Analyn:
+-   Brandon:
+-   Jenna:
+-   Hong Hao:
