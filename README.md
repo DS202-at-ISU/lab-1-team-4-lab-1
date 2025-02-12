@@ -27,7 +27,7 @@ This is a line from RStudio
 
 Chapter 12.1
 
-- Analyn: Prerequisites were complete before clas. Introduced myself to
+- Analyn: Prerequisites were complete before class. Introduced myself to
   the group.
 - Brandon:
 - Brandon: Double checked I had introduced myself. I had.
