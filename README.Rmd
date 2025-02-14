@@ -34,14 +34,14 @@ Chapter 12.2
 
 -   Analyn: The repo was already created as part of the assignment.
 -   Brandon: Used the repo we already had. Hurray!
--   Jenna:
+-   Jenna: Already had a repo!
 -   Hong Hao: I created the repo and named it "Team 4 Lab 1"
 
 Chapter 12.3
 
 -   Analyn: I cloned the GitHub to my class folder, it worked perfectly.
 -   Brandon: Cloned it!
--   Jenna:
+-   Jenna: Successfully cloned the project!
 -   Hong Hao: Followed the steps in chapter 12.3 and cloned it successfully using the HTTPS URL.
 
 Chapter 12.4
