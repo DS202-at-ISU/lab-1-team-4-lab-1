@@ -48,7 +48,7 @@ Chapter 12.4
 
 -   Analyn: I added the line "This is a line from RStudio" in RStudio. I then staged and commited the README.Rmd file.
 -   Brandon: Hey look this step is what I'm doing now :)
--   Jenna:
+-   Jenna:"This is a line from RStudio" again! 
 -   Hong Hao: I added the line "This is a line from RStudio (Hong Hao Khoo)". I staged it, committed the README.Rmd file. 
 
 Chapter 12.5
