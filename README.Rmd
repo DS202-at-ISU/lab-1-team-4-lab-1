@@ -55,13 +55,13 @@ Chapter 12.5
 
 -   Analyn: I pushed it using the push button.
 -   Brandon: First commit didn't work lets try again
--   Jenna:
+-   Jenna: Hit the push button. Had to do some troubleshooting as it kept kicking me out or the rmd file was not showing.
 -   Hong Hao: I pushed the file and it worked.
 
 Chapter 12.6
 
 -   Analyn: I double checked everything worked on the GitHub repo. Once I confirmed it worked, I repeated steps 4 - 6 to add these comments. I also fixed formatting errors.
 -   Brandon: Big formatting errors they did not combine correctly so fixing it now
--   Jenna:
+-   Jenna: Added my lines for every step and began to push everything! Most of my issues have been resolved.
 -   Hong Hao: After pushing the line "This is a line from RStudio" and it works, I added my comments for each step and push it as well.
 
